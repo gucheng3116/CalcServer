@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalcServer</string>
+    <string name="result_default">Result is </string>
+</resources>
